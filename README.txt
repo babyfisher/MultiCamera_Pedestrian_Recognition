@@ -1,5 +1,5 @@
 
-Code for NeuroComputing 2017, "Pedestrian Recognition in Multi-Camera Networks Based on Deep Transfer Learning and Feature Visualization"
+Code for paper "Pedestrian Recognition in Multi-Camera Networks Based on Deep Transfer Learning and Feature Visualization"
 
 1. 
 Download features and auxiliary data of WARD datset from 
